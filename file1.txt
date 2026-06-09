@@ -1,1 +1,2 @@
 File which will be ignored
+Hello world
